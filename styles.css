@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: #323232;
+}
+
+h1 {
+  font-family:'Gelasio', serif;
+  font-size: 8rem;
+  letter-spacing: 5px;
+}
+
+p {
+  font-size: 2rem;
+  font-family: 'Fredoka', cursive;
+}
+
+.dice {
+  display: inline-block;
+  padding: 0 5%;
+}
+
+img {
+  width: 80%
+}
+
+footer {
+  margin-top: 5%;
+}
